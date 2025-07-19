@@ -6,3 +6,5 @@ docker run -d --name jaeger \
   jaegertracing/all-in-one:1.55
 2. Install all requirements from file
 3. Start code and check Jaeger interface
+  
+<img width="1263" height="1198" alt="Снимок экрана 2025-07-19 в 06 02 03" src="https://github.com/user-attachments/assets/a937ada9-00d3-4628-9c9a-b803bf3561f9" />
